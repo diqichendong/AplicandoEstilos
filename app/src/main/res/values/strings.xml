@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplicando Estilos</string>
+
+    <string name="lblRadio">Color:</string>
+    <string name="lblCheck">Estilo:</string>
+    <string name="radOp1">Verde</string>
+    <string name="radOp2">Rojo</string>
+    <string name="radOp3">Azul</string>
+    <string name="chkOp1">Negrita</string>
+    <string name="chkOp2">Cursiva</string>
+    <string name="sw1">Modo oscuro</string>
+    <string name="sw2">Información Log</string>
+    <string name="lblPrueba">PRUEBA</string>
+</resources>
